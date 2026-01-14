@@ -1,8 +1,6 @@
 # Experimentation-Revenue-Growth-Analysis-Hypothesis-Prioritisation-A-B-Test
 Prioritise growth hypotheses (ICE/RICE) and evaluate an A/B test using conversion, revenue, and statistical significance to make a business decision.
 
-# Experimentation & Revenue Growth Analysis: Hypothesis Prioritisation + A/B Test
-
 ## Overview
 This project supports revenue growth for an e-commerce business by combining structured hypothesis prioritisation with A/B test analysis. The work includes ranking growth ideas using ICE and RICE frameworks, then evaluating an experiment using conversion, revenue, and statistical testing to make a clear decision.
 
